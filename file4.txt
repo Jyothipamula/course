@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome to file4.txt
+=======
+this is the newfile
+>>>>>>> 4d252743c2b0136cbf9a24c9afee26ea836b01b9
