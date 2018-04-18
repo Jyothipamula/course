@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is 3rd file
+=======
+thsi is 3rd file
+>>>>>>> 19ab557958dcb2e081299b9d8145360b481ef25a
